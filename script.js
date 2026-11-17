@@ -27,8 +27,8 @@ const products = [
         "isSold": false,
         "description": "black"
 
-    }
-     {
+    },
+    {
         "name": "Elashon",
         "prize": 1234,
         "isSold": false,
